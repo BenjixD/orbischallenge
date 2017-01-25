@@ -1,0 +1,1219 @@
+[468608764] Using port 4461
+Server waiting for client
+Connected player with UUID greedIsGoodAI
+Assigned index 0 (Amber)
+Server waiting for client
+Connected player with UUID randomAI
+Assigned index 1 (Blue)
+randomAI gained 200 points for capturing a control point
+greedIsGoodAI gained 200 points for capturing a control point
+[0] greedIsGoodAI (Comm open) - sending GET_READY...
+[0] greedIsGoodAI (Comm open) - Ready!
+[1] randomAI (Comm open) - sending GET_READY...
+[1] randomAI (Comm open) - Ready!
+[468612622] Asking 0 for move
+[468612623] Asking 1 for move
+[468612677] Got 1's move
+[468612701] Got 0's move
+[468612701] ===== Move Frame 0 ===========
+[468612702] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX      d   X
+X XNX      X X          X
+X XXX      X X        c X
+X          X X     X    X
+XXXXXXXXXX X+X XXXXXXXXXX
+XNX  XNXNX     NXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X Xb X X    N   X X  eX X
+X    XNXN      NXNXX+   X
+XX  XXXXXX  N  XXXXXX  XX
+X   +XXNXN      NXNX    X
+X X   X X   N    X X fX X
+X X a     XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X g  X     X X     XX   X
+X          X X      X X X
+X   h      X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468613254] Asking 1 for move
+[468613254] Asking 0 for move
+[468613273] Got 1's move
+[468613285] Got 0's move
+[468613286] ===== Move Frame 1 ===========
+[468613286] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX     d    X
+X XNX      X X          X
+X XXX      X X       c  X
+X          X X     X    X
+XXXXXXXXXX X+X XXXXXXXXXX
+XNX  XNXNX     NXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    N   X X   X X
+X  b XNXN      NXNXX+e  X
+XX  XXXXXX  N  XXXXXX  XX
+X   +XXNXN      NXNX  f X
+X X a X X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X  g h     X X      X X X
+X          X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468613832] Asking 0 for move
+[468613832] Asking 1 for move
+[468613845] Got 1's move
+[468613853] Got 0's move
+[468613853] ===== Move Frame 2 ===========
+[468613853] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX    d     X
+X XNX      X X          X
+X XXX      X X      c   X
+X          X X     X    X
+XXXXXXXXXX X+X XXXXXXXXXX
+XNX  XNXNX     NXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    N   X X  eX X
+X    XNXN      NXNXX+   X
+XX bXXXXXX  N  XXXXXX  XX
+X   aXXNXN      NXNX    X
+X X   X X   N    X X fX X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    Xh    X X     XX   X
+X          X X      X X X
+X g        X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468614389] Asking 0 for move
+[468614389] Asking 1 for move
+[468614410] Got 1's move
+[468614415] Got 0's move
+[468614416] ===== Move Frame 3 ===========
+[468614416] ==============================
+greedIsGoodAI gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X   d      X
+X XXX      X X     c    X
+X          X X     X    X
+XXXXXXXXXX X+X XXXXXXXXXX
+XNX  XNXNX     NXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX     e X X
+X X  X X    N   X X   X X
+X    XNXN      NXNXX+   X
+XX bXXXXXX  N  XXXXXX  XX
+X   aXXNXN      NXNX  f X
+X X   X X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X  g   h   X X      X X X
+X          X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468614944] Asking 1 for move
+[468614944] Asking 0 for move
+[468614968] Got 0's move
+[468614969] Got 1's move
+[468614969] ===== Move Frame 4 ===========
+[468614970] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X  d c     X
+X          X X     X    X
+XXXXXXXXXX X+X XXXXXXXXXX
+XNX  XNXNX     NXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    N   X X e X X
+X    XNXN      NXNXX+   X
+XX aXXXXXX  N  XXXXXX  XX
+X   bXXNXN      NXNX f  X
+X X   X X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X g   h    X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468615503] Asking 0 for move
+[468615503] Asking 1 for move
+[468615520] Got 1's move
+[468615525] Got 0's move
+[468615525] ===== Move Frame 5 ===========
+[468615525] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X   c      X
+X          X X d   X    X
+XXXXXXXXXX X+X XXXXXXXXXX
+XNX  XNXNX     NXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    N   X X   X X
+X    XNXN      NXNXX+e  X
+XX  XXXXXX  N  XXXXXX fXX
+X   aXXNXN      NXNX    X
+X X  bX X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X    h     X X      XNX X
+X  g       XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468616061] Asking 0 for move
+[468616063] Asking 1 for move
+[468616084] Got 1's move
+[468616087] Got 0's move
+[468616088] ===== Move Frame 6 ===========
+[468616088] ==============================
+greedIsGoodAI gained 200 points for capturing a control point
+[468616090] Control Point Donna2 captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X  c       X
+X          X X     X    X
+XXXXXXXXXX X+XdXXXXXXXXXX
+XNX  XNXNX     AXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    N   X X   X X
+X    XNXN      NXNXX+ f X
+XX  XXXXXX  N  XXXXXXe XX
+X    XXNXN      NXNX    X
+X X  aX X   N    X X  X X
+X X   b   XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X   g      X X      XNX X
+X     h    XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468616620] Asking 0 for move
+[468616620] Asking 1 for move
+[468616643] Got 1's move
+[468616650] Got 0's move
+[468616650] ===== Move Frame 7 ===========
+[468616651] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X c   X    X
+XXXXXXXXXX X+X XXXXXXXXXX
+XNX  XNXNX   d AXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    N   X X   X X
+X    XNXN      NXNXX+   X
+XX  XXXXXX  N  XXXXXX fXX
+X    XXNXN      NXNXe   X
+X X   X X   N    X X  X X
+X X   ab  XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X  g   h   X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468617178] Asking 0 for move
+[468617180] Asking 1 for move
+[468617198] Got 1's move
+[468617202] Got 0's move
+[468617202] ===== Move Frame 8 ===========
+[468617203] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX XdXcXXXXXXXXXX
+XNX  XNXNX     AXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    N   X X   X X
+X    XNXN      NXNXX+  fX
+XX  XXXXXX  N  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X eX X
+X X    ab XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X          X X      XNX X
+X g   h    XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468617736] Asking 0 for move
+[468617736] Asking 1 for move
+[468617749] Got 1's move
+[468617754] Got 0's move
+[468617754] ===== Move Frame 9 ===========
+[468617755] ==============================
+greedIsGoodAI gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX XdX XXXXXXXXXX
+XNX  XNXNX   c AXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    N   X X   XfX
+X    XNXN      NXNXX+   X
+XX  XXXXXX  N  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X Xe X X
+X X     abXXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXN     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+Xg    h    X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468618279] Asking 1 for move
+[468618279] Asking 0 for move
+[468618299] Got 1's move
+[468618320] Got 0's move
+[468618320] ===== Move Frame 10 ===========
+[468618321] ==============================
+greedIsGoodAI gained 200 points for capturing a control point
+[468618322] Control Point Liam captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX   dcAXNXX  XNX
+X X             X X   X X
+X X  X XXXXXXXX       XfX
+X X  X X    N   X X   X X
+X    XNXN      NXNXX+   X
+XX  XXXXXX  N  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X eX X
+X X      aXXXXXXXX X  X X
+X X   X X b           X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X      h   X X      XNX X
+Xg         XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468618853] Asking 0 for move
+[468618864] Asking 1 for move
+[468618874] Got 0's move
+[468618879] Got 1's move
+[468618879] ===== Move Frame 11 ===========
+[468618879] ==============================
+randomAI gained 200 points for capturing a control point
+[468618881] Control Point Nicholas2 captured by BLUE
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX    dAXNXX  XBX
+X X            cX X   XfX
+X X  X XXXXXXXX       X X
+X X  X X    N   X X   X X
+X    XNXN      NXNXX+   X
+XX  XXXXXX  N  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X Xe X X
+X X       XXXXXXXX X  X X
+X X   X X a           X X
+XNX  XXNXA b   XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X g        X X      XNX X
+X     h    XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468619411] Asking 0 for move
+[468619412] Asking 1 for move
+[468619432] Got 1's move
+[468619436] Got 0's move
+[468619436] ===== Move Frame 12 ===========
+[468619436] ==============================
+randomAI gained 40 points for shooting an enemy unit
+[468619445] BLUE.DELTA hits AMBER.BRAVO for 4 * 1 = 4 damage
+greedIsGoodAI gained 40 points for shooting an enemy unit
+[468619673] AMBER.BRAVO hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X           d X X   XfX
+X X  X XXXXXXXXc      X X
+X X  X X    N   X X   X X
+X    XNXN      NXNXX+   X
+XX  XXXXXX  N  XXXXXX  XX
+X    XXNXN      NXNXe   X
+X X   X X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXAab   XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X  g       X X      XNX X
+X     h    XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468620202] Asking 0 for move
+[468620202] Asking 1 for move
+[468620244] Got 1's move
+[468620261] Got 0's move
+[468620263] ===== Move Frame 13 ===========
+[468620263] ==============================
+randomAI gained 40 points for shooting an enemy unit
+[468620264] BLUE.DELTA hits AMBER.BRAVO for 4 * 1 = 4 damage
+greedIsGoodAI gained 40 points for shooting an enemy unit
+[468620268] AMBER.BRAVO hits BLUE.DELTA for 4 * 1 = 4 damage
+greedIsGoodAI gained 200 points for capturing a control point
+[468620270] Control Point Emily2 captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XfX
+X X             X X   X X
+X X  X XXXXXXXXd      X X
+X X  X X    N c X X   X X
+X    XNXN      AXNXX+   X
+XX  XXXXXX  N  XXXXXX  XX
+X    XXNXN      NXNX e  X
+X X   X X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA b   XNXNX  XNX
+XXXXXXXXXXaX+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X g        X X      XNX X
+X     h    XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468620798] Asking 0 for move
+[468620798] Asking 1 for move
+[468620827] Got 1's move
+[468620851] Got 0's move
+[468620852] ===== Move Frame 14 ===========
+[468620853] ==============================
+randomAI gained 40 points for shooting an enemy unit
+[468620853] BLUE.DELTA hits AMBER.ALPHA for 4 * 1 = 4 damage
+greedIsGoodAI gained 40 points for shooting an enemy unit
+[468620854] AMBER.BRAVO hits BLUE.DELTA for 4 * 1 = 4 damage
+greedIsGoodAI gained 200 points for capturing a control point
+[468620856] Control Point Nicholas captured by AMBER
+greedIsGoodAI gained 200 points for capturing a control point
+[468620857] Control Point Andrew2 captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XfX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    A d X X   X X
+X    XNXN    c AXNXX+   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X Xe X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA b   XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X   a X X     XX   X
+X g        X X      X X X
+X          X X      XNX X
+X     h    XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468621381] Asking 0 for move
+[468621382] Asking 1 for move
+[468621395] Got 1's move
+[468621400] Got 0's move
+[468621400] ===== Move Frame 15 ===========
+[468621401] ==============================
+randomAI gained 40 points for shooting an enemy unit
+[468621401] BLUE.DELTA hits AMBER.ALPHA for 4 * 1 = 4 damage
+greedIsGoodAI gained 40 points for shooting an enemy unit
+[468621402] AMBER.BRAVO hits BLUE.DELTA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XfX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    A   X X   X X
+X    XNXN    d AXNXX+   X
+XX  XXXXXX  c  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X  X X
+X X       XXXXXXXX X eX X
+X X   X X             X X
+XNX  XXNXA b   XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X       a  X X      X X X
+Xg         X X      XNX X
+X     h    XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468621924] Asking 0 for move
+[468621925] Asking 1 for move
+[468621938] Got 1's move
+[468621947] Got 0's move
+[468621947] ===== Move Frame 16 ===========
+[468621947] ==============================
+greedIsGoodAI gained 50 points for obtaining a pick up
+randomAI gained 40 points for shooting an enemy unit
+[468621949] BLUE.DELTA hits AMBER.ALPHA for 4 * 1 = 4 damage
+greedIsGoodAI gained 80 points for shooting an enemy unit
+[468621949] AMBER.BRAVO hits BLUE.DELTA for 4 * 2 = 8 damage
+greedIsGoodAI gained 500 points for shooting an enemy unit
+[468621950] AMBER.ALPHA hits BLUE.DELTA for 25 * 2 = 50 damage
+greedIsGoodAI gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XfX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    A   X X   X X
+X    XNXN    d AXNXX+   X
+XX  XXXXXX  c  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X  X X
+X X       XXXXXXXX Xe X X
+X X   X X             X X
+XNX  XXNXA b   XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X       a  X X      X X X
+X g        X X      XNX X
+X     h    XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468622466] Asking 0 for move
+[468622466] Asking 1 for move
+[468622472] Got 1's move
+[468622476] Got 0's move
+[468622477] ===== Move Frame 17 ===========
+[468622477] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XfX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    Ad  X X   X X
+X    XNXN      AXNXX+   X
+XX  XXXXXX  Ac XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X  b        e X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X  g    a  X X      XNX X
+X  h       XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468622995] Asking 1 for move
+[468622995] Asking 0 for move
+[468623002] Got 1's move
+[468623007] Got 0's move
+[468623008] ===== Move Frame 18 ===========
+[468623008] ==============================
+randomAI gained 40 points for shooting an enemy unit
+[468623008] BLUE.CHARLIE hits AMBER.ALPHA for 4 * 1 = 4 damage
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XfX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    A   X X   X X
+X    XNXN    dcAXNXX+   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA b   XNXNXe XNX
+XXXXXXXXXX X+X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X hg   a   X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468623520] Asking 0 for move
+[468623520] Asking 1 for move
+[468623526] Got 1's move
+[468623528] Got 0's move
+[468623528] ===== Move Frame 19 ===========
+[468623529] ==============================
+randomAI gained 80 points for shooting an enemy unit
+[468623529] BLUE.CHARLIE hits AMBER.ALPHA for 4 * 2 = 8 damage
+randomAI gained 80 points for shooting an enemy unit
+[468623530] BLUE.DELTA hits AMBER.ALPHA for 4 * 2 = 8 damage
+randomAI gained 100 points for destroying an enemy unit
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X             X X   XfX
+X X  X XXXXXXXX       X X
+X X  X X    A  cX X   X X
+X    XNXN     dAXNXX+   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNXe XNX
+XXXXXXXXXX XbX XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X hg   a   X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468624048] Asking 0 for move
+[468624048] Asking 1 for move
+[468624054] Got 1's move
+[468624059] Got 0's move
+[468624059] ===== Move Frame 20 ===========
+[468624060] ==============================
+greedIsGoodAI gained 50 points for obtaining a pick up
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X             X X   XfX
+X X  X XXXXXXXX c     X X
+X X  X X    A  dX X   X X
+X    XNXN      AXNXX+   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X  X X
+X Xa      XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX eXNX
+XXXXXXXXXX XbX XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X gh       X X      XNX X
+X          XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468624577] Asking 1 for move
+[468624589] Asking 0 for move
+[468624594] Got 1's move
+[468624597] Got 0's move
+[468624598] ===== Move Frame 21 ===========
+[468624598] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XfX
+X X             X X   X X
+X X  X XXXXXXXX dc    X X
+X X  X X    A   X X   X X
+X    XNXN      AXNXX+   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X  X X
+X X a     XXXXXXXX X  X X
+X X   X X            eX X
+XNX  XXNXA b   XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X h        X X      XNX X
+Xg         XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468625102] Asking 1 for move
+[468625102] Asking 0 for move
+[468625106] Got 1's move
+[468625107] Got 0's move
+[468625107] ===== Move Frame 22 ===========
+[468625108] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X             X X   XfX
+X X  X XXXXXXXX  dc   X X
+X X  X X    A   X X   X X
+X    XNXN      AXNXX+   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X  X X
+X X  a    XXXXXXXX X eX X
+X X   X X b           X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X g        X X      XNX X
+Xh         XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468625653] Asking 0 for move
+[468625657] Asking 1 for move
+[468625692] Got 0's move
+[468625696] Got 1's move
+[468625696] ===== Move Frame 23 ===========
+[468625697] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X             X X   XfX
+X X  X XXXXXXXX   d   X X
+X X  X X    A   X Xc  X X
+X    XNXN      AXNXX+   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXN      NXNX    X
+X X   X X   N    X X eX X
+X X   a  bXXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X  g       X X      XNX X
+X          XNX      XXX X
+Xh   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468626203] Asking 1 for move
+[468626203] Asking 0 for move
+[468626208] Got 1's move
+[468626211] Got 0's move
+[468626211] ===== Move Frame 24 ===========
+[468626211] ==============================
+greedIsGoodAI gained 200 points for capturing a control point
+[468626212] Control Point Kyle captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X             X X   XfX
+X X  X XXXXXXXX       X X
+X X  X X    A   X Xd  X X
+X    XNXN      AXNXXc   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXA      NXNXe   X
+X X   X X b N    X X  X X
+X X    a  XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X   g      X X      X X X
+X          X X      XNX X
+X          XNX      XXX X
+Xh   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468626732] Asking 1 for move
+[468626732] Asking 0 for move
+[468626739] Got 1's move
+[468626740] Got 0's move
+[468626741] ===== Move Frame 25 ===========
+[468626741] ==============================
+greedIsGoodAI gained 50 points for obtaining a pick up
+greedIsGoodAI gained 200 points for capturing a control point
+[468626742] Control Point Barbara2 captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X             X X   XfX
+X X  X XXXXXXXX       X X
+X X  X X    A   X Xd  X X
+X    XNXN      AXNXXc   X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXA      NXNX    X
+X X   X X  bA    X X eX X
+X X     a XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X  g       X X      X X X
+X          X X      XNX X
+X          XNX      XXX X
+XBh  X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468627258] Asking 0 for move
+[468627258] Asking 1 for move
+[468627262] Got 1's move
+[468627268] Got 0's move
+[468627268] ===== Move Frame 26 ===========
+[468627268] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X             X X   X X
+X X  X XXXXXXXX   d   XfX
+X X  X X    A   X Xc  X X
+X    XNXN      AXNXX    X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXA  b   NXNXe   X
+X X   X X   A    X X  X X
+X X      aXXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X  g       X X      XNX X
+X          XNX      XXX X
+XB h X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468627786] Asking 0 for move
+[468627786] Asking 1 for move
+[468627791] Got 1's move
+[468627813] Got 0's move
+[468627814] ===== Move Frame 27 ===========
+[468627814] ==============================
+greedIsGoodAI gained 200 points for capturing a control point
+[468627815] Control Point Isaac2 captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXNXX  XBX
+X X             X X   X X
+X X  X XXXXXXXX   c   XfX
+X X  X X    A   XdX   X X
+X    XNXN      AXAXX    X
+XX  XXXXXX  Ab XXXXXX  XX
+X    XXNXA      NXNXe   X
+X X   X X a A    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X   g      X X      X X X
+X          X X      XNX X
+X          XNX      XXX X
+XB h X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468628328] Asking 0 for move
+[468628328] Asking 1 for move
+[468628334] Got 1's move
+[468628340] Got 0's move
+[468628340] ===== Move Frame 28 ===========
+[468628340] ==============================
+greedIsGoodAI gained 200 points for capturing a control point
+[468628341] Control Point Hannah2 captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XBX
+X X             XcX   X X
+X X  X XXXXXXXX  d    XfX
+X X  X X    A   X X   X X
+X    XNXN     bAXAXX    X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXA      NXNX e  X
+X X   X X  aA    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X    g     X X      XNX X
+X h        XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468628895] Asking 0 for move
+[468628901] Asking 1 for move
+[468628924] Got 0's move
+[468628936] Got 1's move
+[468628936] ===== Move Frame 29 ===========
+[468628937] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XBX
+X X             X X   X X
+X X  X XXXXXXXX cd    XfX
+X X  X X    A   X X   X X
+X    XNXN      AXAXX    X
+XX  XXXXXX  A bXXXXXX  XX
+X    XXNXA      NXNX    X
+X X   X X   a    X X eX X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X   g      X X      XNX X
+X  h       XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468629445] Asking 1 for move
+[468629445] Asking 0 for move
+[468629451] Got 1's move
+[468629452] Got 0's move
+[468629452] ===== Move Frame 30 ===========
+[468629453] ==============================
+greedIsGoodAI gained 200 points for capturing a control point
+[468629453] Control Point Felix2 captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XBX
+X X             X X   X X
+X X  X XXXXXXXX d     XfX
+X X  X X    A  cX X   X X
+X    XNXN      AXAXX    X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXA     bAXNXe   X
+X X   X X   Aa   X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X   g      X X      X X X
+X          X X      XNX X
+X h        XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468629972] Asking 0 for move
+[468629972] Asking 1 for move
+[468629984] Got 0's move
+[468629993] Got 1's move
+[468629994] ===== Move Frame 31 ===========
+[468629994] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XBX
+X X             X X   X X
+X X  X XXXXXXXXd      XfX
+X X  X X    A c X X   X X
+X    XNXN      AXAXX    X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXA    b AXNX    X
+X X   X X   a    X Xe X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+X  g       X X      XNX X
+X          XNX      XXX X
+XBh  X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468630504] Asking 0 for move
+[468630504] Asking 1 for move
+[468630510] Got 1's move
+[468630519] Got 0's move
+[468630520] ===== Move Frame 32 ===========
+[468630520] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XBX
+X X             X X   X X
+X X  X XXXXXXXX       XfX
+X X  X X    Acd X X   X X
+X    XNXN      AXAXX    X
+XX  XXXXXX  A  XXXXXX  XX
+X    XXNXA a b  AXNX    X
+X X   X X   A    X X eX X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X g        X X      X X X
+X          X X      XNX X
+X          XNX      XXX X
+XB h X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468631032] Asking 1 for move
+[468631032] Asking 0 for move
+[468631043] Got 1's move
+[468631045] Got 0's move
+[468631045] ===== Move Frame 33 ===========
+[468631045] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XBX
+X X             X X   XfX
+X X  X XXXXXXXX       X X
+X X  X X    cd  X X   X X
+X    XNXN      AXAXX    X
+XX  XXXXXXa A  XXXXXX  XX
+X    XXNXA  b   AXNXe   X
+X X   X X   A    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+Xg         X X      XNX X
+X h        XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468631561] Asking 0 for move
+[468631564] Asking 1 for move
+[468631568] Got 1's move
+[468631570] Got 0's move
+[468631571] ===== Move Frame 34 ===========
+[468631571] ==============================
+greedIsGoodAI gained 200 points for capturing a control point
+[468631571] Control Point Jane captured by AMBER
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XfX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X   cd   X X   X X
+X    XNXAa     AXAXX    X
+XX  XXXXXX  A  XXXXXXe XX
+X    XXNXA b    AXNX    X
+X X   X X   A    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+Xh         X X      XNX X
+Xg         XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468632086] Asking 1 for move
+[468632086] Asking 0 for move
+[468632091] Got 1's move
+[468632095] Got 0's move
+[468632096] ===== Move Frame 35 ===========
+[468632096] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XfX
+X X             X X   X X
+X X  X XXXXXXXX       X X
+X X  X X    A   X X   X X
+X    XNXA  cd  AXAXX  e X
+XX  XXXXXXa A  XXXXXX  XX
+X    XXNXAb     AXNX    X
+X X   X X   A    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+Xg         X X      XNX X
+Xh         XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+[468632610] Asking 0 for move
+[468632610] Asking 1 for move
+[468632617] Got 1's move
+[468632619] Got 0's move
+[468632619] ===== Move Frame 36 ===========
+[468632619] ==============================
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X   XX       X     X   AX
+X X X      XNX          X
+X XNX      X X          X
+X XXX      X X          X
+X          X X     X    X
+XXXXXXXXXX X X XXXXXXXXXX
+XNX  XNXNX     AXAXX  XBX
+X X             X X   XfX
+X X  X XXXXXXXX       X X
+X X  X X    A   X X   X X
+X    XNXA   d  AXAXX e  X
+XX  XXXXXX cA  XXXXXX  XX
+X    XXNXAa     AXNX    X
+X X   X Xb  A    X X  X X
+X X       XXXXXXXX X  X X
+X X   X X             X X
+XNX  XXNXA     XNXNX  XNX
+XXXXXXXXXX X X XXXXXXXXXX
+X    X     X X     XX   X
+X          X X      X X X
+Xh         X X      XNX X
+X g        XNX      XXX X
+XB   X     X            X
+XXXXXXXXXXXXXXXXXXXXXXXXX
